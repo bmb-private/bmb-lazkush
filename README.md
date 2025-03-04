@@ -52,7 +52,7 @@
 <br>
 
 4.👇 Deploy to Heroku If your have account
-[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/bmb-private/bmb-lazkush)  
+- <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/bmb-private/bmb-lazkush.git"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p> 
 
 <a href="https://wa.me/96878856800">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
